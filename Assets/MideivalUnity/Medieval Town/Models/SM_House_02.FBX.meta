@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 4d511e07256523948a2119e28b26937b
+timeCreated: 1486067222
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box004
+    100002: Box005
+    100004: Object003
+    100006: SM_Door_01
+    100008: SM_Door_01_Frame
+    100010: //RootNode
+    100012: Group64695
+    100014: Object007
+    100016: SM_Board_004
+    100018: SM_Window_010
+    100020: SM_Window_011
+    100022: SM_Window_012
+    100024: SM_Window_03_Shutter_Left007
+    100026: SM_Window_03_Shutter_Left008
+    100028: SM_Window_03_Shutter_Right007
+    100030: SM_Window_03_Shutter_Right008
+    100032: SM_Window_01
+    100034: SM_Window_013
+    100036: SM_Window_014
+    100038: SM_Window_03_Shutter_Left006
+    100040: SM_Window_03_Shutter_Right006
+    100042: SM_House_02_Corners
+    100044: SM_House_02_Metal
+    100046: SM_House_02_Wood
+    100048: SM_House_02_Floor
+    100050: SM_House_02_Wall
+    400000: Box004
+    400002: Box005
+    400004: Object003
+    400006: SM_Door_01
+    400008: SM_Door_01_Frame
+    400010: //RootNode
+    400012: Group64695
+    400014: Object007
+    400016: SM_Board_004
+    400018: SM_Window_010
+    400020: SM_Window_011
+    400022: SM_Window_012
+    400024: SM_Window_03_Shutter_Left007
+    400026: SM_Window_03_Shutter_Left008
+    400028: SM_Window_03_Shutter_Right007
+    400030: SM_Window_03_Shutter_Right008
+    400032: SM_Window_01
+    400034: SM_Window_013
+    400036: SM_Window_014
+    400038: SM_Window_03_Shutter_Left006
+    400040: SM_Window_03_Shutter_Right006
+    400042: SM_House_02_Corners
+    400044: SM_House_02_Metal
+    400046: SM_House_02_Wood
+    400048: SM_House_02_Floor
+    400050: SM_House_02_Wall
+    2300000: Box004
+    2300002: Box005
+    2300004: Object003
+    2300006: SM_Door_01
+    2300008: SM_Door_01_Frame
+    2300010: Object007
+    2300012: SM_Board_004
+    2300014: SM_Window_010
+    2300016: SM_Window_011
+    2300018: SM_Window_012
+    2300020: SM_Window_03_Shutter_Left007
+    2300022: SM_Window_03_Shutter_Left008
+    2300024: SM_Window_03_Shutter_Right007
+    2300026: SM_Window_03_Shutter_Right008
+    2300028: SM_Window_01
+    2300030: SM_Window_013
+    2300032: SM_Window_014
+    2300034: SM_Window_03_Shutter_Left006
+    2300036: SM_Window_03_Shutter_Right006
+    2300038: SM_House_02_Corners
+    2300040: SM_House_02_Metal
+    2300042: SM_House_02_Wood
+    2300044: SM_House_02_Floor
+    2300046: SM_House_02_Wall
+    3300000: Box004
+    3300002: Box005
+    3300004: Object003
+    3300006: SM_Door_01
+    3300008: SM_Door_01_Frame
+    3300010: Object007
+    3300012: SM_Board_004
+    3300014: SM_Window_010
+    3300016: SM_Window_011
+    3300018: SM_Window_012
+    3300020: SM_Window_03_Shutter_Left007
+    3300022: SM_Window_03_Shutter_Left008
+    3300024: SM_Window_03_Shutter_Right007
+    3300026: SM_Window_03_Shutter_Right008
+    3300028: SM_Window_01
+    3300030: SM_Window_013
+    3300032: SM_Window_014
+    3300034: SM_Window_03_Shutter_Left006
+    3300036: SM_Window_03_Shutter_Right006
+    3300038: SM_House_02_Corners
+    3300040: SM_House_02_Metal
+    3300042: SM_House_02_Wood
+    3300044: SM_House_02_Floor
+    3300046: SM_House_02_Wall
+    4300000: Box004
+    4300002: Box005
+    4300004: SM_Door_01_Frame
+    4300006: SM_Door_01
+    4300008: Object003
+    4300010: SM_Board_004
+    4300012: Object007
+    4300014: SM_Window_010
+    4300016: SM_Window_012
+    4300018: SM_Window_03_Shutter_Right008
+    4300020: SM_Window_03_Shutter_Left008
+    4300022: SM_Window_03_Shutter_Left007
+    4300024: SM_Window_03_Shutter_Right007
+    4300026: SM_Window_011
+    4300028: SM_Window_03_Shutter_Left006
+    4300030: SM_Window_03_Shutter_Right006
+    4300032: SM_Window_01
+    4300034: SM_Window_013
+    4300036: SM_Window_014
+    4300038: SM_House_02_Corners
+    4300040: SM_House_02_Metal
+    4300042: SM_House_02_Wood
+    4300044: SM_House_02_Wall
+    4300046: SM_House_02_Floor
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

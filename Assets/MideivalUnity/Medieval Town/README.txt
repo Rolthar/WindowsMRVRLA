@@ -1,0 +1,2 @@
+Standard Image Effects package has been removed from the project due to possible compatiliblity issues with different versions of Unity Engine.
+If the user wants can easily assing the Image Effect package to the version of Unity being used.
